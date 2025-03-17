@@ -1,0 +1,14 @@
+# Ultralytics YOLOv8
+ultralytics
+
+# OpenCV for image processing
+opencv-python
+
+# yq for YAML manipulation
+yq
+
+# labelme for annotation
+labelme
+
+# labelme2yolo for YOLO format conversion
+labelme2yolo
