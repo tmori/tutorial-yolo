@@ -12,3 +12,6 @@ labelme
 
 # labelme2yolo for YOLO format conversion
 labelme2yolo
+
+# torchinfo for PyTorch model information
+torchinfo
